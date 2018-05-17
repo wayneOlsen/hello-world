@@ -1,2 +1,3 @@
 # hello-world
-another hello-world repository
+Hi All
+Beginner coder and setting up in GitHub!
